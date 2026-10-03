@@ -1,0 +1,9 @@
+# Compiled Java files
+*.class
+
+# VS Code settings
+.vscode/
+
+# Personal saved planner data
+data/profile.txt
+data/tasks.txt
